@@ -6,3 +6,7 @@ Python with MongoDB
 - py mongoCreateInsert.py   # this script will create customer collections
 - py mongoTest.py #  this script will show all collections
 - py mongoFind.py # this script will show all records in customer but without address field,uncomment above print line to see name & address of each record 
+
+
+
+V1
